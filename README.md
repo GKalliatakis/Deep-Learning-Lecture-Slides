@@ -3,7 +3,7 @@
 Lecture slides accompanying all chapters of the [MIT Press book 'Deep Learning'](http://www.deeplearningbook.org/) in PDF format (complete and separate).
 
 **This repository contains:**
-1. The integraded PDF version of all the lecture slides of the textbook &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+1. The integraded PDF version of all the lecture slides of the textbook &nbsp;&nbsp;&nbsp;
 [![alt text](https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/download2-24.png "download all slides")](https://github.com/GKalliatakis/Deep-Learning-Lecture-Slides/releases/download/1.0/Deep_Learning_Lecture_Slides.pdf)
 2. Separate PDF files for every chapter of the textbook
 
